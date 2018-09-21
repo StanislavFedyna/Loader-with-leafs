@@ -1,5 +1,7 @@
 body {
-  background: url(../img/sun-pattern.png);
+  background: url(../img/bg-white.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   margin: 0;
   padding: 0;
 }
